@@ -29,5 +29,5 @@ def getTargetTime(work_pr):
 
 
 
-Timer_times()
+print_some_times()
 s.run()
